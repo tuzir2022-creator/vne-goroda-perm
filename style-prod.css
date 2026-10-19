@@ -216,3 +216,6 @@ main { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gut); }
 .s-toprating .s-reviews__stars { font-size: 1rem; }
 .s-toprating u { font-size: .92rem; font-weight: 400; color: var(--c-ink-soft); text-underline-offset: 3px; text-decoration-thickness: 1px; }
 .s-toprating:hover u { color: var(--c-accent-deep, var(--c-accent)); }
+
+.s-steps__n { width: 46px; height: 46px; }
+.s-steps__n svg { width: 22px; height: 22px; display: block; }
